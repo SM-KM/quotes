@@ -2,10 +2,10 @@
 
 ## Goals
 ## Experiences
-
 ## Motivations
 ## Ideas
-- When wanting to do new things, explore new ideas, sort of without thinking we ask someone for directions, step by step actions to take
+
+When wanting to do new things, explore new ideas, sort of without thinking we ask someone for directions, step by step actions to take
 and is due to some kind of indoctrination by formal education, when in reality just acting and failing repetively is how we can actually 
 achive greatness not by following a manual. Circuling back to the indoctrination point, is easier to understand it with an example so here it
 goes: A teacher is trying to explain something to a kid, trying to really make him understand it, but in the process or the normal way of doing 
@@ -16,8 +16,8 @@ from the unchangeble place that most people think it is, everyone is trapped.) I
 ## Definitions
 
 ### Alex Hormozi
-- Exceptional: One that is the exception, therefore not normal. just remember that if you want something different than everyone else
+Exceptional: One that is the exception, therefore not normal. just remember that if you want something different than everyone else
 need to act different than everyone else do.
 
-    - #### Ideas
-        - The heavy burden of unmade decisions
+#### Ideas
+- The heavy burden of unmade decisions
